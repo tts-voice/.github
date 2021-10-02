@@ -8,7 +8,7 @@ Voicera was created from a personal need to listen to the articles from my favor
 That’s why we created Voicera. Using Voicera, bloggers and content writers can embed a life-like voice dictation of their blogs directly into their content. All of this in one click. Just copy and paste your article’s link into our dashboard, select the voice you want, and in an instant, you’ll get a life-like AI-based voice dictation HTML embed which you can add to your content so that readers who don’t have time to focus on reading can listen to your great article while doing some other work. It’s a great way to increase user experience.
 
 Features including:
-- 🆓 It’s FREE to use in beta
+- 🆓 It’s FREE to use. (Upto 20k credits)
 - ♾️ Lifetime validity
 - 🖱️ One-click audio embed creator
 - 🎧 Enables your readers to become your listeners
